@@ -582,4 +582,4 @@ int NetworkStack::CreateSocket(int domain, int type, int protocol) {
     return socket.fd;
 }
 
-}
+} // namespace PS5Emu
