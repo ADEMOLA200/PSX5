@@ -288,4 +288,4 @@ public:
     void on_system_call(uint64_t syscall_number);
 };
 
-}
+} // namespace PS5Emu

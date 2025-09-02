@@ -228,4 +228,4 @@ public:
     void CloseSocket(int fd);
 };
 
-}
+} // namespace PS5Emu

@@ -478,4 +478,4 @@ void AdvancedDebugger::update_call_stack(uint64_t pc) {
     }
 }
 
-}
+} // namespace PS5Emu
